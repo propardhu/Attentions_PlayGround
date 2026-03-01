@@ -10,7 +10,7 @@ The explanations are aligned with **real implementations and experiments**, not 
 ### Definition
 **Multi-Head Attention (MHA)** is the original attention mechanism introduced in the Transformer architecture.
 
-Each attention head has its **own Query (Q), Key (K), and Value (V)** projections.  
+Each attention head has its **own Query (Q), Key (K), and Value (V)** projections.
 All heads attend independently, and their outputs are concatenated.
 
 ---
